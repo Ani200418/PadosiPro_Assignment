@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "PadosiPro",
+    "slug": "padosipro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#155C49",
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.padosipro.app" },
+    "android": { "package": "com.padosipro.app", "usesCleartextTraffic": true }
+  }
+}
